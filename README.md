@@ -1,2 +1,2 @@
 # Tkachenko-Sergey.github.io
-project_veb
+project_web
